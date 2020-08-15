@@ -2,7 +2,7 @@
 
 ## UI/UX
 ### Figma
-- [Neumorphic Black Arrows W11 UI](https://www.figma.com/file/wFC9WJoHztDEETGJI0d90h/Neuromorphic-Silver-Black-F1-Arrows-W11?node-id=0%3A1)
+- [Neumorphic Black Arrows W11 UI](https://www.figma.com/file/wFC9WJoHztDEETGJI0d90h/Neuromorphic-Silver-Black-W11?node-id=31%3A18)
 
 ### Website
 
