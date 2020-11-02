@@ -6,7 +6,7 @@
 
 ### Website
 
-[Tittoh Tech](https://www.tittohtech.com)
+[Tittoh Tech](https://profile.tittohtech.com)
 
 <!--
 **Tittoh/Tittoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
