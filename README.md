@@ -4,9 +4,9 @@
 ### Figma
 - [Neumorphic Black Arrows W11 UI](https://www.figma.com/file/wFC9WJoHztDEETGJI0d90h/Neuromorphic-Silver-Black-W11?node-id=31%3A18)
 
-### Website
 
-[Tittoh Tech](https://profile.tittohtech.com)
+
+[Website](https://profile.tittohtech.com)
 
 <!--
 **Tittoh/Tittoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
