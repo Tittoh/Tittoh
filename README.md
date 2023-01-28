@@ -6,4 +6,6 @@
 <div align="center">
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=tittoh&theme=github-dark)
+  
+  ![Top Langs](https://github-self-chi.vercel.app/api/top-langs/?username=tittoh&layout=compact&theme=github-dark)
 </div>
