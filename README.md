@@ -4,18 +4,19 @@
 ## 🔧 Technologies & Tools
 
 ![MacOS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
 
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Code-Typescript.js-informational?style=flat&logo=typescript.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white)
-
-![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
-![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
