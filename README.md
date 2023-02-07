@@ -6,7 +6,6 @@
 
 ![MacOS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white)
@@ -42,6 +41,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tittoh&theme=github-dark&bg_color=0d1117)
 ![Top Langs](https://github-self-chi.vercel.app/api/top-langs/?username=tittoh&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=39d353&border_color=39d353&langs_count=8&hide=html)
+
+![](https://komarev.com/ghpvc/?username=ytittoh)
 
 ## 🌐 Socials
 
