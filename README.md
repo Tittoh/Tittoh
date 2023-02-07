@@ -7,7 +7,6 @@
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Code-Typescript.js-informational?style=flat&logo=typescript.js&logoColor=white)
@@ -44,6 +43,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=tittoh&theme=github-dark&bg_color=0d1117)
 ![Top Langs](https://github-self-chi.vercel.app/api/top-langs/?username=tittoh&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=39d353&border_color=39d353&langs_count=8&hide=html)
 
+![Profile Views](https://img.shields.io/endpoint?color=informational&url=https%3A%2F%2Fsolidoctoengine.vercel.app%2Fghpvc)
 
 ## 🌐 Socials
 
