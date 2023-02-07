@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <h1>👋 Hi there. I'm 𝓣𝓲𝓽𝓽𝓸𝓱</h1>
-</div>
+👋 𝓣𝓲𝓽𝓽𝓸𝓱
+===
 
 ## 🔧 Technologies & Tools
 
