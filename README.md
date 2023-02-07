@@ -43,7 +43,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=tittoh&theme=github-dark&bg_color=0d1117)
 ![Top Langs](https://github-self-chi.vercel.app/api/top-langs/?username=tittoh&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=39d353&border_color=39d353&langs_count=8&hide=html)
 
-![Custom badge](https://img.shields.io/endpoint?color=informational&logo=github&url=https%3A%2F%2Fsolidoctoengine.vercel.app%2Fghpvc?&dummy=unused)
+![Custom badge](https://img.shields.io/endpoint?color=informational&logo=github&url=https%3A%2F%2Fsolidoctoengine.vercel.app%2Fghpvc?&cacheSeconds=300)
 
 ## 🌐 Socials
 
