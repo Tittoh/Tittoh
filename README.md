@@ -38,6 +38,7 @@
 ## 📚 Learning
 
 ![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white)
+![D3](https://img.shields.io/badge/Code-D3.js-informational?style=flat&logo=d3.js&logoColor=white)
 
 ## 📊 Statistics
 
