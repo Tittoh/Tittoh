@@ -47,6 +47,7 @@
 
 ## 🌐 Socials
 
+[![UpWork](https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white)](https://www.upwork.com/workwith/tittoh)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_tittoh)
 
 ## 💰 Supporting
