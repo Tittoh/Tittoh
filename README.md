@@ -35,20 +35,10 @@
 ![Heroku](https://img.shields.io/badge/PaaS-Heroku-informational?style=flat&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/PaaS-Firebase-informational?style=flat&logo=firebase&logoColor=white)
 
-## 📚 Learning
-
-![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white)
-![D3](https://img.shields.io/badge/Code-D3.js-informational?style=flat&logo=d3.js&logoColor=white)
-
 ## 📊 Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tittoh&theme=github-dark&bg_color=0d1117)
 ![Top Langs](https://github-self-chi.vercel.app/api/top-langs/?username=tittoh&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=39d353&border_color=39d353&langs_count=8&hide=html)
-
-## 🌐 Socials
-
-[![UpWork](https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white)](https://www.upwork.com/workwith/tittoh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_tittoh)
 
 ## 💰 Support
 
